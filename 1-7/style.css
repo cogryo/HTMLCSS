@@ -21,25 +21,7 @@ main {
     margin: 50px auto;
 }
 
-.box1 {
-    padding-bottom: 30px;
-    margin-bottom: 30px;
-    border-bottom: 1px solid gray;
-}
-
-.box2 {
-    padding-bottom: 30px;
-    margin-bottom: 30px;
-    border-bottom: 1px solid gray;
-}
-
-.box3 {
-    padding-bottom: 30px;
-    margin-bottom: 30px;
-    border-bottom: 1px solid gray;
-}
-
-.box4 {
+.box {
     padding-bottom: 30px;
     margin-bottom: 30px;
     border-bottom: 1px solid gray;
