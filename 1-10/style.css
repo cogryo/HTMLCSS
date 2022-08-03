@@ -74,7 +74,8 @@ footer {
     .box {
         width: 90%;
         margin-bottom: 20px;
-        margin-right: 0;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .box:nth-child(3) {
